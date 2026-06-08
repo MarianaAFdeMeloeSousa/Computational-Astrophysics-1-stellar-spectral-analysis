@@ -1,6 +1,6 @@
 # Stellar Spectral Analysis
 
-A Python notebook for analysing stellar spectra using Fe I absorption lines — including excitation temperature estimation via the multiplet method, equivalent width measurement, and chi-squared fitting against the BT-NextGen synthetic spectrum grid.
+A Python notebook for analysing stellar spectra using Fe I absorption lines, including excitation temperature estimation via the multiplet method, equivalent width measurement, and chi-squared fitting against the BT-NextGen synthetic spectrum grid.
 
 Originally developed as a computational astrophysics assignment, shared openly for students and researchers working with stellar spectroscopy.
 
