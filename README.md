@@ -48,7 +48,7 @@ The `espetros 5000-6000/` and `espetros 6000-7000/` folders contain BT-NextGen m
 2. Download the T_eff ranges you need (5000–6000 K and 6000–7000 K)
 3. Place the files in `data/espetros 5000-6000/` and `data/espetros 6000-7000/`
 
-The sections on multiplet analysis, equivalent width measurement, and spectral visualisation work without the grid — only the chi-squared grid search requires it.
+The sections on multiplet analysis, equivalent width measurement, and spectral visualisation work without the grid - only the chi-squared grid search requires it.
 
 ---
 
@@ -94,7 +94,7 @@ See the section above. Skip this if you only want to run the multiplet and EW an
 jupyter notebook stellar_spectral_analysis.ipynb
 ```
 
-All included data files are loaded via relative paths from `data/` — no configuration needed.
+All included data files are loaded via relative paths from `data/` - no configuration needed.
 
 ---
 
@@ -122,7 +122,7 @@ This workflow implements the **excitation equilibrium method** for stellar param
 4. The observed EWs are then compared against those of BT-NextGen synthetic spectra to estimate T_eff, log g, and [Fe/H]
 5. For Star 2, rotational broadening (v sin i ≈ 10.8 km/s) is applied before comparison
 
-**Reference:** Tsantaki et al. (2013), *A&A*, 555, A150 — [doi:10.1051/0004-6361/201321103](https://doi.org/10.1051/0004-6361/201321103)
+**Reference:** Tsantaki et al. (2013), *A&A*, 555, A150 - [doi:10.1051/0004-6361/201321103](https://doi.org/10.1051/0004-6361/201321103)
 
 ---
 
